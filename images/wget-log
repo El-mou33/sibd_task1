@@ -1,0 +1,15 @@
+--2025-10-23 18:00:21--  https://www.google.com/imgres?q=tigre%20de%20bengala
+Resolving www.google.com (www.google.com)... 172.217.168.164, 2a00:1450:4003:80a::2004
+Connecting to www.google.com (www.google.com)|172.217.168.164|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.google.com/imghp [following]
+--2025-10-23 18:00:21--  https://www.google.com/imghp
+Reusing existing connection to www.google.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘imgres?q=tigre de bengala’
+
+imgres?q=tigre de bengala      [<=>                                      ]       0  --.-KB/s               imgres?q=tigre de bengala      [ <=>                                     ]  16.12K  --.-KB/s    in 0.006s  
+
+2025-10-23 18:00:21 (2.60 MB/s) - ‘imgres?q=tigre de bengala’ saved [16506]
+
